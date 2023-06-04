@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Projects.html", title: "Projects"}
+  - {file: "Projects.md", title: "Projects"}
   - {file: "README.md", title: "About me"}
   - {title: "Lab", url: "https://www.musculoskeletal.ai/"}
 
