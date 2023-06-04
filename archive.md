@@ -1,7 +1,6 @@
 ---
-title: "Archive"
-layout: default
-sitemap: false
+title: "Projects"
+layout: page
 ---
 
 The page is currently under works!
