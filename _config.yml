@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Projects.md", title: "Projects"}
   - {file: "README.md", title: "About me"}
-  - {file: "/fnu_mallika_resume.pdf", title: "CV"}
+  - {file: fnu_mallika_resume.pdf, title: "CV"}
   - {title: "Lab", url: "https://www.musculoskeletal.ai/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
