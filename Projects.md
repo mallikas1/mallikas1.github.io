@@ -11,7 +11,7 @@ Multi-Modal MRI Brain Segmentation & Survival Rate Prediction
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Posts" %}
+  {% include archive.html title="Project-List" %}
 {% endif %}
 
 
