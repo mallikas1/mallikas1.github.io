@@ -1,10 +1,8 @@
 ---
-title:  "Look Who's Talking : Reconstructing faces from voices"
+title:  "Look Who's Talking: Reconstructing faces from voices"
 layout: post
 ---
 
-
-## Summary
 Machine Learning: Project: (Prof. Najim Dehak, ECE, Johns Hopkins University)
 
 Used Generative Adversarial Network to synthesize face images from voice samples using the EmoVoxCeleb dataset.
