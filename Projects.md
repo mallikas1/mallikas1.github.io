@@ -4,9 +4,8 @@ permalink: "/Projects/"
 layout: page
 ---
 
-The page is currently under works!
+The page is currently under work!
 
-Multi-Modal MRI Brain Segmentation & Survival Rate Prediction
 
 {% if site.show_excerpts %}
   {% include home.html %}
